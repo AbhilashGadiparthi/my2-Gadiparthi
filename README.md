@@ -9,7 +9,11 @@ New York is not only the most famous city in the world but also, arguably, the b
 1. Visiting Statue of Liberty
 2. Times Square/Broadway Show
 3. Cooper Hewitt Smithsonian Design Museum
-
+4. Food which i love to eat in New York 
+     * Bagel with cream cheese and lox
+     * Cheesecake
+     * Chopped Cheese Sandwich 
+     * Egg and Cheese on a Roll
 
 
 
