@@ -4,6 +4,7 @@
 New York is not only the most famous city in the world but also, arguably, the best for tourists, **thanks to its diverse culture and myriad of entertainment options**. There's never a dull day in **The City That Never Sleeps**, which is why everyone must visit New York City at least once in their life.
 
 ---------------
+
 # To do activities in New York
 
 1. Visiting Statue of Liberty
@@ -18,6 +19,7 @@ New York is not only the most famous city in the world but also, arguably, the b
 [Mystat](MyStats.md)
 
 -----------------------------------
+
 # Sports recommended to play inorder to be fit and healthy
 
 Here, we gonna discuss about four sports that I recommend trying for various reasons. Every sport has its own benefits and experiences, and the table below provides a quick benefits of playing those games .I believe that staying active in sports is a great way to be healthy and fit.
@@ -28,6 +30,15 @@ Here, we gonna discuss about four sports that I recommend trying for various rea
 |Football  | Improving heart health and blood pressure | 5-6 hours |
 |vollyball | Burns Fat and Calories, Builds and Tones Muscles  | 5-6 hours |
 |Badminton | Strengthen the heart muscle  | 5-6 hours |
+
+
+-----------
+
+# Quotes by Scientists
+
+> "Success can come to you by courageous devotion to the task lying in front of you." - *CV Raman*
+
+> "If there has been any success in my life, that was built on the unshakable foundation of failure…." - *JC Bose*
 
 
 
