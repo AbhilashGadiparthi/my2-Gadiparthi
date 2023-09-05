@@ -40,6 +40,31 @@ Here, we gonna discuss about four sports that I recommend trying for various rea
 
 > "If there has been any success in my life, that was built on the unshakable foundation of failure…." - *JC Bose*
 
+--------
+# Code Fencing
+  
+     ```
+     str_starts_with('http://www.google.com', 'http')
+     substr( $string_n, 0, 4 ) === "http"
+     substr( $string_n, 0, 7 ) === "http://"
+     substr($string, 0, strlen($query)) === $query
+     ```
+
+[How to check if a string starts with a specified string?](https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string)
+
+     ```
+     <?php  
+     function startsWith($string, $startString) { 
+     $len = strlen($startString); 
+     return (substr($string, 0, $len) === $startString); 
+     } 
+     // usage
+     echo startsWith("cat", "c"); // true
+     echo startsWith("dog", "x"); // false
+     ?> 
+     ```
+[Test if String Starts With Certain Characters in PHP](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
+
 
 
 
